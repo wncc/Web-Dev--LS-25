@@ -30,7 +30,6 @@ By the end of this week, ensure that you have [Setup React](./ReactInstallation.
 
 - Installed Node.js and npm
 - Set up React
-- Covered the [Basics of React](./ReactJS.md)
 
 We’ll dive into React in **Week 2**, so get this out of the way now to avoid delays later.
 ## <a name="_jjw75fui1fxd"></a>**4. Assignment**

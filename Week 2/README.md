@@ -53,7 +53,7 @@ Explore the **Practice Folder** for Bootstrap-based project challenges.
 
 How to try it:
 
-1. Open the [**Practice folder**](./Practise)
+1. Open the [**Practice folder**](./Practice)
 2. Copy the repo link
 3. Paste it into [Download Directory](https://download-directory.github.io/)
 4. Extract the ZIP
